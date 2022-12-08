@@ -1,0 +1,3 @@
+# Esta aplicacion es un desplegador de tarea en donde podemos crear y eliminar tareas.. 
+
+1 - Esta creado con React en donde usamos conceptos como props, hook, webpack, etc... 
